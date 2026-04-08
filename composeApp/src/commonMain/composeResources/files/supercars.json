@@ -9,7 +9,8 @@
         "weight": 2195,
         "top_speed": "258 mph",
         "current_market_price": "$2,000,000",
-        "engine_details": "4 electric motors with a combined output of 1914 hp"
+        "engine_details": "4 electric motors with a combined output of 1914 hp",
+        "image_url": "https://raw.githubusercontent.com/matthias18771/v-vehicle-images/main/images/cyclone.png"
     },
     {
         "make": "Bugatti",
@@ -21,7 +22,8 @@
         "weight": 1995,
         "top_speed": "304 mph",
         "current_market_price": "$3,900,000",
-        "engine_details": "8.0L quad-turbocharged W16"
+        "engine_details": "8.0L quad-turbocharged W16",
+        "image_url": "https://raw.githubusercontent.com/matthias18771/v-vehicle-images/main/images/adder.png"
     },
     {
         "make": "Tesla",
@@ -33,7 +35,8 @@
         "weight": 2162,
         "top_speed": "200 mph",
         "current_market_price": "$130,000",
-        "engine_details": "Tri-motor All-Wheel Drive"
+        "engine_details": "Tri-motor All-Wheel Drive",
+        "image_url": "https://raw.githubusercontent.com/matthias18771/v-vehicle-images/main/images/raiden.png"
     },
     {
         "make": "Porsche",
@@ -45,7 +48,8 @@
         "weight": 1640,
         "top_speed": "205 mph",
         "current_market_price": "$207,000",
-        "engine_details": "3.8L twin-turbocharged flat-six"
+        "engine_details": "3.8L twin-turbocharged flat-six",
+        "image_url": "https://raw.githubusercontent.com/matthias18771/v-vehicle-images/main/images/comet2.png"
     },
     {
         "make": "Lamborghini",
@@ -57,7 +61,8 @@
         "weight": 1650,
         "top_speed": "217 mph",
         "current_market_price": "$500,000",
-        "engine_details": "6.5L V12 hybrid with an electric motor"
+        "engine_details": "6.5L V12 hybrid with an electric motor",
+        "image_url": "https://raw.githubusercontent.com/matthias18771/v-vehicle-images/main/images/zentorno.png"
     },
     {
         "make": "McLaren",
@@ -69,7 +74,8 @@
         "weight": 1685,
         "top_speed": "218 mph",
         "current_market_price": "$3,000,000",
-        "engine_details": "4.0L twin-turbocharged V8"
+        "engine_details": "4.0L twin-turbocharged V8",
+        "image_url": "https://raw.githubusercontent.com/matthias18771/v-vehicle-images/main/images/t20.png"
     },
     {
         "make": "Ferrari",
@@ -81,7 +87,8 @@
         "weight": 1575,
         "top_speed": "211 mph",
         "current_market_price": "$625,000",
-        "engine_details": "4.0L twin-turbo V8 plus three electric motors"
+        "engine_details": "4.0L twin-turbo V8 plus three electric motors",
+        "image_url": "https://raw.githubusercontent.com/matthias18771/v-vehicle-images/main/images/turismor.png"
     },
     {
         "make": "Pagani",
@@ -93,7 +100,8 @@
         "weight": 1250,
         "top_speed": "280 mph",
         "current_market_price": "$3,500,000",
-        "engine_details": "6.0L twin-turbo V12"
+        "engine_details": "6.0L twin-turbo V12",
+        "image_url": "https://raw.githubusercontent.com/matthias18771/v-vehicle-images/main/images/osiris.png"
     },
     {
         "make": "Aston Martin",
@@ -105,7 +113,8 @@
         "weight": 1450,
         "top_speed": "220 mph",
         "current_market_price": "$1,000,000",
-        "engine_details": "3.0L twin-turbo V6 hybrid"
+        "engine_details": "3.0L twin-turbo V6 hybrid",
+        "image_url": "https://raw.githubusercontent.com/matthias18771/v-vehicle-images/main/images/specter.png"
     },
     {
         "make": "Koenigsegg",
@@ -117,6 +126,7 @@
         "weight": 1975,
         "top_speed": "248 mph",
         "current_market_price": "$2,000,000",
-        "engine_details": "2.0L twin-turbocharged 3-cylinder"
+        "engine_details": "2.0L twin-turbocharged 3-cylinder",
+        "image_url": "https://raw.githubusercontent.com/matthias18771/v-vehicle-images/main/images/entityxf.png"
     }
 ]

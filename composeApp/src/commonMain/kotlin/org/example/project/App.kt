@@ -11,23 +11,21 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import org.example.project.data.SupercarRepository
 import org.example.project.domain.Supercar
+import org.example.project.domain.TiltData
 import org.example.project.physics.PhysicsEngine
-import org.example.project.ui.FloatingGallery
+import org.example.project.ui.SupercarCarousel
 
 @Composable
 fun App() {
     MaterialTheme {
         val coroutineScope = rememberCoroutineScope()
         
-        // Repositories and engines
         val repository = remember { SupercarRepository() }
         val physicsEngine = remember { PhysicsEngine(coroutineScope) }
         
-        // Reactive States
         var supercars by remember { mutableStateOf<List<Supercar>?>(null) }
-        val offsetVector by physicsEngine.offsetVector.collectAsState()
+        val tiltData by physicsEngine.tiltDataFlow.collectAsState()
 
-        // Fetch Initial Data
         LaunchedEffect(Unit) {
             supercars = repository.getSupercars()
         }
@@ -35,16 +33,16 @@ fun App() {
         Box(
             modifier = Modifier
                 .fillMaxSize()
-                .background(Color(0xFF121212)),
+                .background(Color(0xFF0A0A0E)),
             contentAlignment = Alignment.Center
         ) {
             val cars = supercars
             if (cars == null) {
                 CircularProgressIndicator(color = Color(0xFF00FFCC))
             } else {
-                FloatingGallery(
+                SupercarCarousel(
                     supercars = cars,
-                    tiltVector = offsetVector
+                    tiltData = tiltData
                 )
             }
         }
