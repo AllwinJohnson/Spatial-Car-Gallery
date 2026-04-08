@@ -1,0 +1,122 @@
+[
+    {
+        "make": "Rimac",
+        "model": "Nevera",
+        "year": 2022,
+        "0-60_time": "1.85 seconds",
+        "horsepower": 1914,
+        "torque": 2360,
+        "weight": 2195,
+        "top_speed": "258 mph",
+        "current_market_price": "$2,000,000",
+        "engine_details": "4 electric motors with a combined output of 1914 hp"
+    },
+    {
+        "make": "Bugatti",
+        "model": "Chiron Super Sport 300+",
+        "year": 2021,
+        "0-60_time": "2.4 seconds",
+        "horsepower": 1578,
+        "torque": 1180,
+        "weight": 1995,
+        "top_speed": "304 mph",
+        "current_market_price": "$3,900,000",
+        "engine_details": "8.0L quad-turbocharged W16"
+    },
+    {
+        "make": "Tesla",
+        "model": "Model S Plaid",
+        "year": 2021,
+        "0-60_time": "1.99 seconds",
+        "horsepower": 1020,
+        "torque": 1050,
+        "weight": 2162,
+        "top_speed": "200 mph",
+        "current_market_price": "$130,000",
+        "engine_details": "Tri-motor All-Wheel Drive"
+    },
+    {
+        "make": "Porsche",
+        "model": "911 Turbo S",
+        "year": 2021,
+        "0-60_time": "2.6 seconds",
+        "horsepower": 640,
+        "torque": 590,
+        "weight": 1640,
+        "top_speed": "205 mph",
+        "current_market_price": "$207,000",
+        "engine_details": "3.8L twin-turbocharged flat-six"
+    },
+    {
+        "make": "Lamborghini",
+        "model": "Revuelto",
+        "year": 2023,
+        "0-60_time": "2.5 seconds",
+        "horsepower": 1001,
+        "torque": 725,
+        "weight": 1650,
+        "top_speed": "217 mph",
+        "current_market_price": "$500,000",
+        "engine_details": "6.5L V12 hybrid with an electric motor"
+    },
+    {
+        "make": "McLaren",
+        "model": "Sabre",
+        "year": 2021,
+        "0-60_time": "2.5 seconds",
+        "horsepower": 824,
+        "torque": 590,
+        "weight": 1685,
+        "top_speed": "218 mph",
+        "current_market_price": "$3,000,000",
+        "engine_details": "4.0L twin-turbocharged V8"
+    },
+    {
+        "make": "Ferrari",
+        "model": "SF90 Stradale",
+        "year": 2020,
+        "0-60_time": "2.5 seconds",
+        "horsepower": 986,
+        "torque": 590,
+        "weight": 1575,
+        "top_speed": "211 mph",
+        "current_market_price": "$625,000",
+        "engine_details": "4.0L twin-turbo V8 plus three electric motors"
+    },
+    {
+        "make": "Pagani",
+        "model": "Huayra Roadster BC",
+        "year": 2021,
+        "0-60_time": "2.8 seconds",
+        "horsepower": 791,
+        "torque": 775,
+        "weight": 1250,
+        "top_speed": "280 mph",
+        "current_market_price": "$3,500,000",
+        "engine_details": "6.0L twin-turbo V12"
+    },
+    {
+        "make": "Aston Martin",
+        "model": "Valhalla",
+        "year": 2024,
+        "0-60_time": "2.5 seconds",
+        "horsepower": 937,
+        "torque": 738,
+        "weight": 1450,
+        "top_speed": "220 mph",
+        "current_market_price": "$1,000,000",
+        "engine_details": "3.0L twin-turbo V6 hybrid"
+    },
+    {
+        "make": "Koenigsegg",
+        "model": "Gemera",
+        "year": 2022,
+        "0-60_time": "1.9 seconds",
+        "horsepower": 1700,
+        "torque": 2000,
+        "weight": 1975,
+        "top_speed": "248 mph",
+        "current_market_price": "$2,000,000",
+        "engine_details": "2.0L twin-turbocharged 3-cylinder"
+    }
+]
