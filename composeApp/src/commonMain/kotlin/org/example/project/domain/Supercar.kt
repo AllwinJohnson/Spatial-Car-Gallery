@@ -14,5 +14,6 @@ data class Supercar(
     val weight: Int,
     @SerialName("top_speed") val topSpeed: String,
     @SerialName("current_market_price") val currentMarketPrice: String,
-    @SerialName("engine_details") val engineDetails: String
+    @SerialName("engine_details") val engineDetails: String,
+    @SerialName("image_url") val imageUrl: String
 )

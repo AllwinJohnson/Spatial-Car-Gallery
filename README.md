@@ -33,3 +33,6 @@ in your IDE’s toolbar or open the [/iosApp](./iosApp) directory in Xcode and r
 ---
 
 Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
+
+---
+**Note:** the glow feature cannot be fixed by gemini 3.1 Pro (low), maybe it'll fix in the feature.
